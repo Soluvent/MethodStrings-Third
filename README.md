@@ -6,13 +6,13 @@
   <img alt="Fallback image description" src="https://github.com/user-attachments/assets/0aecfea6-0be1-4282-a753-f3324645d5af">
 </picture>
 
-# `Лабораторна робота` `№1` `Основи роботи з рядками та методами.`
+# `Лабораторна робота` `№3` `Основи роботи з рядками та методами.`
 
 [![ReadMe](https://img.shields.io/badge/ReadMe-018EF5?logo=readme&logoColor=fff)](https://docs.google.com/document/d/19unIe4WaBjPMkZOxbllCGPG0m37LRf8r/edit?usp=drive_link&ouid=110536394177911584125&rtpof=true&sd=true)
 [![](https://img.shields.io/badge/-@Soluvent-%23181717?style=round-square&logo=github)](https://github.com/Soluvent)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?logo=intellij-idea&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-C38330?style=flat&logo=openjdk&logoColor=white)
-[![Version: 1.0](https://img.shields.io/badge/Version-1.0-blue.svg)](https://github.com/Soluvent/StringMethods-First/edit/main/README.md)
+[![Version: 1.0](https://img.shields.io/badge/Version-1.0-blue.svg)](https://github.com/Soluvent/MethodStrings-Third/edit/main/README.md)
 
 ## `📝 Завдання `
 ### 1. Перевірка закінчення рядка на «ed»
